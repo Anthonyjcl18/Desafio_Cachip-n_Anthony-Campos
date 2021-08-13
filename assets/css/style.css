@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    opacity: 100;
+}
+
+h1 {
+    text-align: center;
+    font-size: 62px;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Indie Flower', cursive;
+}
+
+i {
+    margin-left: 35px;
+    padding-left: 300px;
+}
+
+.far {
+    text-align: center;
+}
